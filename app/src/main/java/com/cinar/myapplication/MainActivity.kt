@@ -10,6 +10,7 @@ import android.widget.TextView
 class MainActivity : AppCompatActivity() {
 
     //lateinit sonradan initilaize edilecek
+    
     lateinit var myTextView: TextView
 
     lateinit var text: TextView
